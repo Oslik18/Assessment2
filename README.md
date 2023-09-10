@@ -1,5 +1,6 @@
 # Assessment2
-Assessment2 C#
+Assessment2 C# (other info in Assignment2_Specification-2022.pdf)
+
 Addendum:
 
 1. Username in login.txt / login form should be unique. Students should have appropriate code for validating that the new user created has a unique Username.

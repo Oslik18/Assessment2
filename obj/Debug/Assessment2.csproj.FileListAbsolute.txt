@@ -1,0 +1,12 @@
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\bin\Debug\Assessment2.exe.config
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\bin\Debug\Assessment2.exe
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\bin\Debug\Assessment2.pdb
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.Properties.Resources.resources
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.csproj.GenerateResource.cache
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.exe
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.pdb
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.LoginForm.resources
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.NewUserForm.resources
+C:\Users\oslik\Documents\Olga\Programming\Programming\С\Assessment2\obj\Debug\Assessment2.TextEditorForm.resources

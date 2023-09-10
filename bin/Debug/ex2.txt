@@ -1,0 +1,7 @@
+Addendum:
+Username in login.txt / login form should be unique. Students should have appropriate code for validating that the new user created has a unique Username.
+The login.txt to be used for the login function should have similar format as that of the sample file provided.
+Appropriate Collections should be used to handle the login functionality. e.g. ArrayList is not an appropriate collection to use.
+Where applicable students may use LINQ/Lambda (optional).
+The sample screenshots provided in the assignment specification (and demo shown in the lecture) are for reference and students should at least have similar form designs, if not better and more intuitive.
+Editor should be able to Open and Save both ".txt" and ".rtf" files.
